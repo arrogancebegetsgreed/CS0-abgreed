@@ -1,0 +1,38 @@
+"""
+    stdIO Lab
+    ASCII ART - using literals and variables
+
+    Updated By: <Caine Mayhew> #FIXME1
+    Date: ...#FIXME2
+
+    This program produces and ASCII art on the console.
+
+    Algorithm steps:
+    1. Use variables to store data/values
+    2. Write a series of print statements to print the data/values to the console
+"""
+
+print("Welcome to ASCII Art Program.../n")
+
+name: str = input("Please enter your name here.")
+print("Nice meeting you,", name + "!")
+semester: str= input("What semester is this [Fall/Spring]?")
+print("This is", semester, "semester.\n")
+year = int(input("Please enter the current year."))
+print("This is", year, "year")
+print("Hope you like my ASCII art...\n\n")
+
+line1: str ="  |\\_/|     **********************       (\\_/)"
+line2: str =" / @ @ \    *     ASCII LAB      *      (='.'=)"
+line3: str ="( > 0 < )   *     "+name   + "          *    ( \" )_( \" )"
+line4: str ="  >>x<<     *     "+semester + ", " +str(year)+   "   *"
+line5: str ="  / O \     *     CSCI 111       *"
+line6: str ="            **********************"
+print(line1)
+print(line2)
+print(line3)
+print(line4)
+print(line5)
+print(line6)
+
+print("\nGoodbye...  \n")
