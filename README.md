@@ -35,4 +35,4 @@
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/Assign/ASCII |
 | Self Grade | 100/100 |
-| Notes | Typed up code, did all the fix me's and made sure spacing was appropriate + the variables showed up with actual user input. |
+| Notes | Typed up code, did all the fix me's spacing gets kinda weird with differing number of characters for the input, but most of the spacing is good and shows up as intended + the variables showed up with actual user input. |
