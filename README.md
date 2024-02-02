@@ -10,9 +10,9 @@
 | **Github Username** | arrogancebegetsgreed |
 | **Repository** | https://github.com/arrogancebegetsgreed/CS0-abgreed |
 
-##Assignments
+## Assignments
 
-##Assignment #1
+### Assignment #1
 
 | Name | Value |
 | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ## Labs
 
-## Lab #1
+### Lab #1
 | Name | Value |
 | :--- | :--- |
 | Name | 1 - ASCII Art Lab |
