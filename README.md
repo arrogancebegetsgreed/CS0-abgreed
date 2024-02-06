@@ -18,7 +18,7 @@
 | :--- | :--- |
 | Name | Stdio |
 | Description | ASCII Art and card flip function |
-| Due Date | |
+| Due Date | February 9th |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/Assign/Stdio/Stdio.py |
 | Self Grade | 100/100 |
@@ -31,7 +31,7 @@
 | :--- | :--- |
 | Name | 1 - ASCII Art Lab |
 | Description | Lab doing simple ASCII Art |
-|Due Date | |
+|Due Date | February 6th |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/Assign/ASCII |
 | Self Grade | 100/100 |
