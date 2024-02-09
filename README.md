@@ -34,7 +34,7 @@
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Triangle/triangle.py |
 | Self Grade | 100/100 |
-| Notes | wrote steps as comments, calculated area/perimeter, added description when printing, and ran multiple times to ensure the answers were accurate. Also added in a function to check if the numbers given by the user would actually make up a triangle, but I did not run it 49 times. |
+| Notes | wrote steps as comments, calculated area/perimeter, added description when printing, and ran multiple times to ensure the answers were accurate. Also added in a function to check if the numbers given by the user would actually make up a triangle, and ran it enough to make sure it was actually checking and would print out "This makes a triangle" or "This doesn't make a triangle", but I did not run it 49 times. |
 
 ## Labs
 
