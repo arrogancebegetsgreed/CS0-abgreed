@@ -24,6 +24,18 @@
 | Self Grade | 100/100 |
 | Notes | Met requirements, ran it multiple times to correct spacing and ensure it ran and pull all the cards |
 
+### Assignment #2
+
+| Name | Value |
+| :--- | :--- |
+| Name | Triangle HW |
+| Description | Calculating the area and perimeter of a triangle given number provided through user input. |
+| Due Date |  |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Triangle/triangle.py |
+| Self Grade | 100/100 |
+| Notes | wrote steps as comments, calculated area/perimeter, added description when printing, and ran multiple times to ensure the answers were accurate. Also added in a function to check if the numbers given by the user would actually make up a triangle, but I did not run it 49 times. |
+
 ## Labs
 
 ### Lab #1
