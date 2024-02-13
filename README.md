@@ -56,6 +56,7 @@
 | Description | Adding two numbers and printing the sum; Finding the area and circumference of a circle based on user input-ed radius |
 |Due Date | February 15th |
 | Status | Complete |
-| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Circle/circle.py | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/math/main.py |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Circle/circle.py | 
+| Location 2 | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/math/main.py |
 | Self Grade | 100/100 |
 | Notes | Fixed all the fix me problems, ran code multiple times and compared answers with my calculator. |
