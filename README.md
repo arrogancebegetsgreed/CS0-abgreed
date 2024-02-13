@@ -48,3 +48,14 @@
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/Assign/ASCII |
 | Self Grade | 100/100 |
 | Notes | Typed up code, did all the fix me's spacing gets kinda weird with differing number of characters for the input, but most of the spacing is good and shows up as intended + the variables showed up with actual user input. |
+
+### Lab #2
+| Name | Value |
+| :--- | :--- |
+| Name | 2 - add2numbers and circle lab |
+| Description | Adding two numbers and printing the sum; Finding the area and circumference of a circle based on user input-ed radius |
+|Due Date | February 15th |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Circle/circle.py | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/math/main.py |
+| Self Grade | 100/100 |
+| Notes | Fixed all the fix me problems, ran code multiple times and compared answers with my calculator. |
