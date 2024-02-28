@@ -36,6 +36,18 @@
 | Self Grade | 100/100 |
 | Notes | wrote steps as comments, calculated area/perimeter, added description when printing, and ran multiple times to ensure the answers were accurate. Also added in a function to check if the numbers given by the user would actually make up a triangle, and ran it enough to make sure it was actually checking and would print out "This makes a triangle" or "This doesn't make a triangle", but I did not run it 49 times. |
 
+### Assignment #3
+
+| Name | Value |
+| :--- | :--- |
+| Name | Functions |
+| Description | Creating a basic calculator using functions and user input |
+| Due Date | 2/28/2024 |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Functions/functions.py |
+| Self Grade | 100/100 |
+| Notes | All the functions work correctly and will all be called/executed together when entering only one pair of numbers. It will return the appropriate values with proper descriptions, and supports float numbers, not just integers. |
+
 ## Labs
 
 ### Lab #1
