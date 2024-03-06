@@ -78,7 +78,7 @@
 | :--- | :--- |
 | Name | Conditionals |
 | Description | If/else statements determining if a number is even/odd and or negative/positive |
-|Due Date | February 29th |
+|Due Date | March 6th |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Conditionals/conditionals.py | 
 | Self Grade | 80/100 |
