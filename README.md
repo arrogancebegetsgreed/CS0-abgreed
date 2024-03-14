@@ -84,3 +84,15 @@
 | Self Grade | 80/100 |
 | Notes | Fixed all the fix me problems, ran code multiple times. |
 
+### Lab #6
+| Name | Value |
+| :--- | :--- |
+| Name | Strings |
+| Description | Determining things about a user inputted string |
+|Due Date | March 14th |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Strings/string.py | 
+| Self Grade | 80/100 |
+| Notes | Fixed most of the problems, ran multiple times. Lab6b is also done and a screenshot should be in the lab or string folder. |
+
+
