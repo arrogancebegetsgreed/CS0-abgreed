@@ -103,7 +103,7 @@
 | Description | Scoring 5 contestants on their food and then ranking them by the sum of said score to find the winner |
 |Due Date |  |
 | Status | Complete |
-| Location |  | 
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Pet/pet.py | 
 | Self Grade | 70/100 |
 | Notes |  |
 
