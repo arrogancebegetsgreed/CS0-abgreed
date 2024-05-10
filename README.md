@@ -55,7 +55,7 @@
 | :--- | :--- |
 | Name | 1 - ASCII Art Lab |
 | Description | Lab doing simple ASCII Art |
-|Due Date | February 6th |
+| Due Date | February 6th |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/Assign/ASCII |
 | Self Grade | 100/100 |
@@ -66,7 +66,7 @@
 | :--- | :--- |
 | Name | 2 - add2numbers and circle lab |
 | Description | Adding two numbers and printing the sum; Finding the area and circumference of a circle based on user input-ed radius |
-|Due Date | February 15th |
+| Due Date | February 15th |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Circle/circle.py | 
 | Location 2 | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/math/main.py |
@@ -78,7 +78,7 @@
 | :--- | :--- |
 | Name | Conditionals |
 | Description | If/else statements determining if a number is even/odd and or negative/positive |
-|Due Date | March 6th |
+| Due Date | March 6th |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Conditionals/conditionals.py | 
 | Self Grade | 80/100 |
@@ -89,7 +89,7 @@
 | :--- | :--- |
 | Name | Strings |
 | Description | Determining things about a user inputted string |
-|Due Date | March 14th |
+| Due Date | March 14th |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Strings/string.py | 
 | Self Grade | 80/100 |
@@ -101,10 +101,20 @@
 | :--- | :--- |
 | Name | Pet |
 | Description | Scoring 5 contestants on their food and then ranking them by the sum of said score to find the winner |
-|Due Date |  |
+| Due Date |  |
 | Status | Complete |
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Pet/pet.py | 
 | Self Grade | 70/100 |
 | Notes |  |
 
 
+### Lab #9
+| Name | Value |
+| :--- | :--- |
+| Name | IO |
+| Description |  |
+| Due Date |  |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/IO/IO.py | 
+| Self Grade | 50/100 |
+| Notes |  |
