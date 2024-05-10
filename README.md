@@ -96,3 +96,15 @@
 | Notes | Fixed most of the problems, ran multiple times. Lab6b is also done and a screenshot should be in the lab or string folder. |
 
 
+### Lab #7
+| Name | Value |
+| :--- | :--- |
+| Name | Pet |
+| Description | Scoring 5 contestants on their food and then ranking them by the sum of said score to find the winner |
+|Due Date |  |
+| Status | Complete |
+| Location |  | 
+| Self Grade | 70/100 |
+| Notes |  |
+
+
