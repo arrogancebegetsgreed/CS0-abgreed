@@ -141,3 +141,15 @@
 | Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/IO/IO.py | 
 | Self Grade | 50/100 |
 | Notes |  |
+
+
+### Lab #11
+| Name | Value |
+| :--- | :--- |
+| Name | OOP |
+| Description |  |
+| Due Date |  |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/OOP/11.py | 
+| Self Grade | 70/100 |
+| Notes |  |
