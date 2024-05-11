@@ -96,6 +96,17 @@
 | Self Grade | 80/100 |
 | Notes | Fixed all the fix me problems, ran code multiple times. |
 
+### Lab #5
+| Name | Value |
+| :--- | :--- |
+| Name | Loops |
+| Description | Determing if a number is odd or even |
+| Due Date | March 6th |
+| Status | Complete |
+| Location |  | 
+| Self Grade | 80/100 |
+| Notes | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Labs/Loops/Oddities.py |
+
 ### Lab #6
 | Name | Value |
 | :--- | :--- |
