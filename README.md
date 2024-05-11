@@ -48,6 +48,18 @@
 | Self Grade | 100/100 |
 | Notes | All the functions work correctly and will all be called/executed together when entering only one pair of numbers. It will return the appropriate values with proper descriptions, and supports float numbers, not just integers. |
 
+### Assignment #5
+
+| Name | Value |
+| :--- | :--- |
+| Name | Loops: guess the number |
+| Description | Making a number guessing game using randomly generated numbers |
+| Due Date |  |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Assignments/Loops/loop.py |
+| Self Grade | 100/100 |
+| Notes | Tested it multiple times, ran as it should. |
+
 ## Labs
 
 ### Lab #1
