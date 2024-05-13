@@ -1,0 +1,172 @@
+##Caine Mayhew
+##Final Project
+###Hangman
+###CS0-abgreed
+
+import random##for randomized word choice
+
+###drawings
+hangman = (
+    
+    
+    """
+       -----------,  
+      |	     |		|
+      |	        	|
+      |			|
+      |			|
+      |                     |
+      |___________|
+      """,
+      """
+     -----------,  
+      |	     |		|
+      |	     o  	|
+      |			|
+      |			|
+      |                     |
+      |___________|
+      """,
+    
+    """
+     -----------*,  
+      |	     |		|
+      |	     o  	|
+      |	     |   	|
+      |			|
+      |                     |
+      |___________|
+    
+    """,
+    """
+         -----------*,  
+      |	     |		|
+      |	     o  	|
+      |	  / |   	|
+      |			|
+      |                     |
+      |___________|
+      """,
+    """
+         -----------*,  
+      |	     |		|
+      |	     o  	|
+      |	   /|\  	|
+      |			|
+      |                     |
+      |___________|
+      """, 
+    """
+       -----------*,
+      |	     |		|
+      |	     o  	|
+      |	   /|\  	|
+      |	    /   	|
+      |                     |
+      |___________|
+      """,
+    """
+           -----------*,  
+      |	     |		|
+      |	     o  	|
+      |	   /|\  	|
+      |	    / \  	|
+      |                     |
+      |___________|    
+      """,
+    """
+    -----------*,  
+      |	     |		|
+      |	     o  	|
+      |	   /|\  	|
+      |	    / \  	|
+      |                `     | 
+      |___________|
+      """,
+    """
+     -----------*,  
+      |	     |		|
+      |	     o  	|
+      |	   /|\  	|
+      |	    / \  	|
+      |          '      `     | 
+      |___________|
+      """)##hangman drawings
+
+tree = True##for loop, condition
+turn = 6#counter for turns
+word = ["toast", "lucky", "almond", "cross", "rank", "darling", "roses", "delicate",
+        "aero", "embalm", "badge", "night", "mare", "bird", "barmaid", "enchant", "witch", "dream",
+        "profess", "truth", "mark", "knight", "coax"]##list of possible words to be guessed
+
+
+while tree is True:##while loop, will run as long as condition is met
+    
+    ##setting it to randomise the word you need to guess
+    you_are_chosen = random.choice(word).lower()##lowercase
+    letters_tried = []##empty list to append the already guessed letters into
+    print(you_are_chosen)##testing
+    goodword = ' ~ ' * len(you_are_chosen)##setting up blanks for which the right letters will later replace
+    x = 8##how many times the below applies
+    for i in range(x):
+        letter = input("Guess a letter!")##user input for guessing a letter
+        for f in range(len(you_are_chosen)):##for the word the below are affected
+            if you_are_chosen in goodword:##if the word shows up in goodword - if the correct letters replace all blanks and form the chosen word
+                correct = True##win condition, if true, then win
+                goodword = goodword[:i] + you_are_chosen[i] + goodword[i+1:]##replacing blanks with words from input which match the chosen words
+                print(you_are_chosen)##testing
+                print(goodword)##testing
+            else:##otherwise
+                correct = False##if false, then lose
+            if not correct:##if lose
+                break#end
+            if correct:##if win
+                print("Congrats, you win!")###print congrats
+                tree = False##end
+                break##end
+        if letter not in you_are_chosen:##incorrect letters
+            print("That letter is not in the word! Try again.")
+            turn -= 1##subtract turn
+        if letter in you_are_chosen:##correct letters
+            print("That letter is in the word! Good job!")
+            turn = turn##don't subtract turn
+        if not letter.isalpha():##checking if input is only letters
+            print("Please only enter letters!")##if not print this and do not append letter to list
+        elif len(letter) > 1:##checking if input is only one letter
+            print("Please only enter one letter at a time.")##if not do not accept input
+        elif letter in letters_tried:##checking if the letter has already been guessed
+            print("Please only enter letters you haven't already guessed.")##don't append it if so
+        else:##otherwise
+            letters_tried.append(letter)##append the letter
+            print(letters_tried)##testing
+    if turn == 8:###printing the appropriate picture for each stage
+        for x in hangman:##no man
+            print(hangman[0])
+    if turn == 7:
+        for x in hangman:
+            print(hangman[1])##only head
+    if turn == 6:
+        for x in hangman:##head and body
+            print(hangman[2])##printing for a specific slot/drawing in the hangman variable
+    if turn == 5:
+        for x in hangman:###head, body, and one arm
+            print(hangman[3])
+    if turn == 4:
+        for x in hangman: ##head, body, arms
+            print(hangman[4])
+    if turn == 3:
+        for x in hangman:##head, body, arms, one leg
+            print(hangman[5])
+    if turn == 2:
+        for x in hangman:##head, body, arms, both legs
+            print(hangman[6])
+    if turn == 1:
+        for x in hangman:##head,body, legs, arms, one foot
+            print(hangman[7])
+    if turn == 0:##last turn
+        for x in hangman:###full man, head, body, arms, legs, feet
+            if  you_are_chosen[i] not in goodword:##if word is not guessed
+                print(hangman[8])
+                break##once hits turn 0 and haven't guessed the word, you've run out of guesses,quit
+            else:
+                correct = True
