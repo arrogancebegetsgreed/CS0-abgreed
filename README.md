@@ -60,6 +60,17 @@
 | Self Grade | 100/100 |
 | Notes | Tested it multiple times, ran as it should. |
 
+### Final
+| Name | Value |
+| :--- | :--- |
+| Name | hangman |
+| Description |  |
+| Due Date |  |
+| Status | Complete |
+| Location | https://github.com/arrogancebegetsgreed/CS0-abgreed/blob/main/Project/Final | 
+| Self Grade | 70/100 |
+| Notes |  |
+
 ## Labs
 
 ### Lab #1
